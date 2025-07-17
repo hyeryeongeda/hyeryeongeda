@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**hyeryeongeda/hyeryeongeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📝 김혜령의 미니홈피
 
-Here are some ideas to get you started:
+안녕하세요! 여기는 **김혜령의 미니홈피**입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ 사용언어
+
+- 🎨 **React**
+- ⚡ **React Naitive**
+
+## 📝 자기소개
+
+mbti는 **ISTP** 입니다.  *굉장히 내성적이며,* ~~스포츠를 좋아함~~
+좋아하는 캐릭터는 **한교동**입니다. 귀엽잖아여><
+
+## 💬 인생모토
+
+> 맨땅에 헤딩하기. 💭
+> 무모할지라도 막상 해보면 어렵지 않을 것이다.
+
+
+## 🔗 링크
+- [Naver블로그](https://blog.naver.com/novembre_vingt-deux) - 네이버 블로그
+
+---
+
+### 즐거운 싸피생활하세요! 🚀

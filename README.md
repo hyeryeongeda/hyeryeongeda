@@ -20,7 +20,7 @@
   HTML/CSS/JS 기반 포트폴리오 사이트  
 
 ## 📊 GitHub Stats
-![Hyeryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda)](https://github.com/anuraghazra/github-readme-stats)
+![Hyeryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda)]
 
 ## ✨ 사용언어
 

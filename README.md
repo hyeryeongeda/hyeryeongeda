@@ -11,8 +11,12 @@
 
 ## ✨ 사용언어
 
-- 🎨 **React**
-- ⚡ **React Naitive**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeryeongeda)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✨ 평판
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 📝 자기소개
 

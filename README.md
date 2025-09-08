@@ -1,13 +1,26 @@
 ## Hi there 👋
+# 👋 Hi, I’m Hyeryeong!
 
-# 📝 김혜령의 Git Hub
+🚀 열정적으로 배우고 성장하는 개발자  
+💻 관심 분야: Web Development | Algorithm | AI  
 
-안녕하세요! 여기는 **김혜령의 Git Hub**입니다. 양념반 후라이드반 복수전공자입니다~
-
-## ✨ 부트캠프
-
+## ✨ 캠프
 -  **KT AIVLESCHOOL 5기**
 -  **SSAFY 14기**
+
+## 🛠 Tech Stack
+- **Languages**: Python, Java, JavaScript  
+- **Frameworks & Libraries**: React, Spring Boot, Node.js  
+- **Tools**: Git, VS Code, Docker  
+
+## 📌 Projects
+- **[Baekjoon Algorithm Solutions](https://github.com/hyeryeongeda/baekjoon_algorithm)**  
+  백준 알고리즘 문제 풀이 모음집  
+- **[My Web Portfolio](https://github.com/hyeryeongeda/my_web)**  
+  HTML/CSS/JS 기반 포트폴리오 사이트  
+
+## 📊 GitHub Stats
+![Hyeryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda&show_icons=true&theme=tokyonight)
 
 ## ✨ 사용언어
 
@@ -16,15 +29,10 @@
 ## ✨ 평판
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-## 📝 자기소개
-
-mbti는 **ISTP** 입니다. 
-
 ## 💬 인생모토
 
 > 맨땅에 헤딩하기. 💭
+
 > 무모할지라도 막상 해보면 어렵지 않을 것이다.
 
 

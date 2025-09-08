@@ -20,14 +20,11 @@
   HTML/CSS/JS 기반 포트폴리오 사이트  
 
 ## 📊 GitHub Stats
-![Hyeryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda&show_icons=true&theme=tokyonight)
+![Hyeryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ 사용언어
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeryeongeda)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✨ 평판
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 인생모토
 

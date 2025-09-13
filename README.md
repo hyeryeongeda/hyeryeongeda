@@ -4,9 +4,6 @@
 -  **KT AIVLESCHOOL 5기**
 -  **SSAFY 14기**
 
-## 📊 GitHub Stats
-![Hyeryeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeryeongeda)
-
 ## 📊 Baekjoon Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeryeong)](https://solved.ac/gaeryeong/)
 

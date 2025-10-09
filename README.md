@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyeryeong&fontSize=90 )
 
-## ✨ camp
+## ✨ 부트캠프
 -  **KT AIVLESCHOOL 5기**
 -  **SSAFY 14기**
 

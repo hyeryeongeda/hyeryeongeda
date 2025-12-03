@@ -8,7 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeryeong)](https://solved.ac/gaeryeong/)
 
 ## ✨ Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeryeongeda&layout=compact)](https://github.com/hyeryeongeda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeryeongeda&layout=compact)](https://github.com/hyeryeongeda/github-readme-stats/)
 
 ---
 

@@ -28,7 +28,7 @@ React · Vue · Flutter · React Native
 
 ### 1) ARNNECT — 취향 분석 기반 예술 전시 플랫폼
 - **키워드**: 큐레이션 · 피드 · 3D 전시 홀 · QR 티켓 · 컬렉트북 · 팬레터
-- **내 기여(예시)**  
+- **기여 **  
   - React Router 기반 라우팅/가드 구조 정리  
   - Zustand 상태 설계 및 로그인/권한 흐름 연동  
   - API 연동 시 응답 형태/필드명 차이를 FE에서 표준화  
@@ -37,12 +37,12 @@ React · Vue · Flutter · React Native
 - **Links**: [Repo](https://github.com/YOUR-USERNAME/arnnect-fe) 
 
 ### 2) 커버메이트 — 소설 요약 + 생성형 AI 표지 생성 플랫폼
-- **내 기여**: 로그인/회원가입/마이페이지, 토큰 기반 인증 흐름, UI/UX 개선
+- **기여**: 로그인/회원가입/마이페이지, 토큰 기반 인증 흐름, UI/UX 개선
 - **Tech**: React, HTML, CSS  
 - **Links**: [Repo](https://github.com/YOUR-USERNAME/covermate) 
 
 ### 3) 귀농백과 — 귀농 초보를 위한 정보/커뮤니티 앱
-- **내 기여**: 익명 커뮤니티/댓글 기능, UI/UX 전 페이지 디자인, 게시글/댓글 수정·삭제
+- **기여**: 익명 커뮤니티/댓글 기능, UI/UX 전 페이지 디자인, 게시글/댓글 수정·삭제
 - **Tech**: Flutter, Dart  
 - **Links**: [Repo](https://github.com/YOUR-USERNAME/farming-encyclopedia) 
 

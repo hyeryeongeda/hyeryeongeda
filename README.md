@@ -25,7 +25,6 @@ React · Vue · Flutter · React Native
 ---
 
 ## ⭐ Featured Projects
-> 아래 링크는 유저 깃헙 레포/노션/시연영상으로 교체하면 완성도 급상승합니다.
 
 ### 1) ARNNECT — 취향 분석 기반 예술 전시 플랫폼
 - **키워드**: 큐레이션 · 피드 · 3D 전시 홀 · QR 티켓 · 컬렉트북 · 팬레터

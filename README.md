@@ -75,9 +75,14 @@ C# WPF 기반으로 산업용 도면 분석 결과를 사용자가 확인하고 
 
 ---
 
-## 📝 Writing
+## 📝 Technical Writing
 
-[Blog](https://premiereneige.tistory.com/)
+개발 과정에서 마주한 문제 해결, 프로젝트 회고, 협업 자동화 경험을 기록합니다.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[전체 글 보러가기](https://premiereneige.tistory.com/)
 
 ---
 

@@ -22,3 +22,5 @@ jobs:
           max_post_count: 3
           readme_path: "./README.md"
           commit_message: "docs: update latest blog posts"
+          user_agent: "Mozilla/5.0"
+          accept_header: "text/xml"

@@ -89,6 +89,12 @@ C# WPF 기반으로 산업용 도면 분석 결과를 사용자가 확인하고 
 
 ---
 
+## 📊 GitHub Activity
+
+![GitHub 3D Contributions](./profile-3d-contrib/profile-gitblock.svg)
+
+---
+
 ## 📬 Contact
 
 <div align="center">

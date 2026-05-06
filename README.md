@@ -70,7 +70,7 @@ C# WPF 기반으로 산업용 도면 분석 결과를 사용자가 확인하고 
 개발 과정에서 마주한 문제 해결, 프로젝트 회고, 협업 자동화 경험을 기록합니다.
 
 <!-- BLOG-POST-LIST:START -->
-- [Codex로 트러블슈팅 기록 자동화하기](https://premiereneige.tistory.com/28)
+- [트러블슈팅 기록? 까먹기 전에 자동으로 줍줍하게 만들기](https://premiereneige.tistory.com/29)
 - [n8n + Gemini API로 GitLab MR 자동 리뷰봇 만들기: 503 high demand 에러를 시간대별 분기로 우회한 기록](https://premiereneige.tistory.com/27)
 - [자율프로젝트인데요?](https://premiereneige.tistory.com/26)
 <!-- BLOG-POST-LIST:END -->

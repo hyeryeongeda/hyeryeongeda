@@ -9,7 +9,7 @@
 
 ## ⚙️ Projects
 
-**🧩 P2U : AI 기반 P&ID 도면 분석 결과 검토 데스크톱 애플리케이션**  
+**🧩 [P2U](https://github.com/hyeryeongeda/p2u_project) : AI 기반 P&ID 도면 분석 결과 검토 데스크톱 애플리케이션**  
 > Current Project · Private Repository
 C# WPF 기반으로 산업용 도면 분석 결과를 사용자가 확인하고 검토할 수 있는 UI를 구현하는 프로젝트입니다.  
 도면 업로드, 분석 진행, 결과 검토, 객체 상세 확인 흐름을 중심으로 AI 결과를 화면에 구조화하고 있습니다.

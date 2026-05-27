@@ -10,9 +10,8 @@
 ## ⚙️ Projects
 
 **🧩 [P2U](https://github.com/hyeryeongeda/p2u_project) : AI 기반 P&ID 도면 분석 결과 검토 데스크톱 애플리케이션**  
-> Current Project · Private Repository
 C# WPF 기반으로 산업용 도면 분석 결과를 사용자가 확인하고 검토할 수 있는 UI를 구현하는 프로젝트입니다.  
-도면 업로드, 분석 진행, 결과 검토, 객체 상세 확인 흐름을 중심으로 AI 결과를 화면에 구조화하고 있습니다.
+도면 업로드, 분석 진행, 결과 검토, 객체 상세 확인 흐름을 중심으로 AI 결과를 화면에 구조화했습니다.
 
 **👀 [EyeSpeak](https://github.com/hyeryeongeda/eyespeak) : 시선 입력 기반 ALS 환자 보조 의사소통 서비스**  
 손 사용이 어려운 환자가 시선 입력으로 의사 표현, 보호자 호출, 여가 기능을 사용할 수 있도록 지원하는 서비스입니다.  

@@ -89,7 +89,7 @@ C# WPF 기반으로 산업용 도면 분석 결과를 사용자가 확인하고 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaeryeongeda@naver.com)
-[Notion 포트폴리오](https://app.notion.com/p/Developer-37289d8322e4806e9465de35bb438a57?source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Developer-37289d8322e4806e9465de35bb438a57?source=copy_link)
 
 </div>
 
